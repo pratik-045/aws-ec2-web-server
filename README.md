@@ -60,3 +60,19 @@ sudo systemctl restart nginx
 - Installing and managing Nginx on Linux
 - Hosting a custom webpage on an EC2 instance
 - Understanding basic AWS web server deployment
+
+## Project Screenshots
+
+The following screenshots show the implementation and deployment of the AWS EC2 web server.
+
+### 1. EC2 Instance
+Shows the running EC2 instance used for the web server.
+
+### 2. Security Group
+Shows the inbound rules configured for SSH (Port 22) and HTTP (Port 80).
+
+### 3. Nginx Web Server
+Shows the Nginx service running successfully on the EC2 instance.
+
+### 4. Custom Webpage
+Shows the custom HTML webpage deployed on the EC2 instance and accessed through its public IP address.
