@@ -51,3 +51,12 @@ sudo systemctl status nginx
 cd /usr/share/nginx/html
 sudo nano index.html
 sudo systemctl restart nginx
+
+## What I Learned
+
+- Launching and configuring EC2 instances
+- Working with AWS Security Groups
+- Connecting to EC2 using SSH
+- Installing and managing Nginx on Linux
+- Hosting a custom webpage on an EC2 instance
+- Understanding basic AWS web server deployment
